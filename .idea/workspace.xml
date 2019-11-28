@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f23f4241-89d4-4ffc-a825-7ad53d016ced" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/vendor/mindplay/annotations" />
+      <path value="$PROJECT_DIR$/vendor/thinkcmf/cmf-api" />
+      <path value="$PROJECT_DIR$/vendor/thinkcmf/cmf-app" />
+      <path value="$PROJECT_DIR$/vendor/thinkcmf/cmf" />
+      <path value="$PROJECT_DIR$/vendor/thinkcmf/cmf-install" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-installer" />
+      <path value="$PROJECT_DIR$/vendor/thinkcmf/cmf-extend" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-image" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-helper" />
+      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/vendor/thinkphp/library" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-captcha" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/thinkphp/tpl" />
+      <path value="$PROJECT_DIR$/vendor/thinkphp/lang" />
+      <path value="$PROJECT_DIR$/vendor/electrolinux/phpquery" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1SlQGkGOQDWSqi7O5aPeUXNECl8" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/game/controller" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\wampServer(PHP)\www\ThinkCMF\app\game\controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f23f4241-89d4-4ffc-a825-7ad53d016ced" name="Default Changelist" comment="" />
+      <created>1572135609458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572135609458</updated>
+      <workItem from="1572135620046" duration="15949000" />
+      <workItem from="1572607318335" duration="20000" />
+      <workItem from="1572829520885" duration="12861000" />
+      <workItem from="1574501420553" duration="11438000" />
+      <workItem from="1574570205039" duration="1275000" />
+      <workItem from="1574679553759" duration="7491000" />
+      <workItem from="1574770457446" duration="5015000" />
+      <workItem from="1574858677854" duration="709000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
