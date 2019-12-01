@@ -87,11 +87,13 @@ class GameController extends RestUserBaseController
     }
 
     public function updata_info(){
-        $updataInfo='';
+
         $data = $this->request->post();
+        $updataInfo=Db::name("game")->where('id','=',$data['id'])->find();
         $data['update_time']=time();
+        $data['operate_log']=$updataInfo['operate_log'].$data['operate'];
         $gameInfo=Db::name("game")->where('id',$data['id'])->update($data);
-        if($gameInfo==1){
+        if($gameInfo){
             $updataInfo=Db::name("game")->where('id',$data['id'])->find();
         }
         $this->success('updataInfo',$updataInfo);
